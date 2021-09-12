@@ -1,4 +1,4 @@
 # LiFiParking
 A parking system with LiFi
 
-Normally, the notification LED will be turned off if the parking slots are available. When a car is parked in a parking slot, the notification LED will turn on.
+The notification LED will be turned off if the parking slots are available. When a car is parked in a parking slot, the notification LED will turn on.
